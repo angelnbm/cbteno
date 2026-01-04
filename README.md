@@ -35,10 +35,6 @@ Para que el sitio funcione correctamente, agrega las siguientes imágenes en la 
 3. **fundadores.jpg** - Foto histórica de los fundadores
 4. **bombero1.jpg a bombero4.jpg** - Fotos del equipo
 
-## 💻 Cómo Usar
-
-1. Abre `index.html` en tu navegador
-2. O usa Live Server de VS Code para desarrollo
 
 ## ✨ Características
 
